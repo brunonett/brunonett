@@ -3,7 +3,7 @@
 -  :hammer_and_wrench:  **(_games/Site_softwares_)**.  
 
 > 🌱 Estudando atualmente **Design Patterns** e **linguagem de Shader**. 
--  👀 Maximo cuidado para evitar **_REPETIÇÕES_**.
+
 
 
 
