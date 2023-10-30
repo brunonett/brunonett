@@ -2,7 +2,7 @@
 - :receipt: **C# - HTML/CSS - JavaScript  - PHP - Mysql**.
 -  :hammer_and_wrench:  **(_Games_Unity/Godot/Site_softwares_)**.  
 
-> :eyeglasses: Estudando atualmente **Design Patterns** e **linguagem de Shader**. 
+> :eyeglasses: Studying **Design Patterns** and **linguagem de Shader**. 
 
 
 
