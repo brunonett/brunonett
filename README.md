@@ -1,5 +1,5 @@
 > 👋 Ola, eu sou **@brunonett** atualmente trabalhando e projetos pessoais nas linguagens: 
-- :receipt: **C# - HTML/CSS - JavaScript  - PHP - Mysql**.
+- :receipt: **C# - Python - HTML/CSS - JavaScript**.
 -  :hammer_and_wrench:  **(_Games_Unity/Godot/Site_softwares_)**.  
 
 > :eyeglasses: Studying **Design Patterns** and **linguagem de Shader**. 
